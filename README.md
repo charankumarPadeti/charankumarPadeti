@@ -6,14 +6,17 @@
 
 
 
-👋  Hi, I'm Charankumar Padeti
+# 👋  Hi, I'm Charankumar Padeti
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 DevOps Engineer – @ Diyar United Comany
 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform 
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 I'm a passionate DevOps Engineer with over 3 years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS .
 
-🧰 Tool Stack
+## 🧰 Tool Stack
 
 Cloud: AWS
 OS: Linux, Windows
@@ -27,7 +30,7 @@ Scripting: Bash, Shell
 Monitoring: Prometheus, Grafana, CloudWatch
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-What  i do :-
+## What  i do :-
 
 - 🛠️ Build and manage infrastructure on AWS and Azure using Terraform
 - 🚀 Design high-performance CI/CD pipelines using AWS DevOps, GitHub Actions, Jenkins
