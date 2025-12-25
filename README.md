@@ -1,3 +1,11 @@
+<img width="729" height="183" alt="image" src="https://github.com/user-attachments/assets/bb66f409-cb14-4597-b57c-190dcbc459c6" />
+
+
+
+
+
+
+
 👋  Hi, I'm Charankumar Padeti
 
 DevOps Engineer – @ Diyar United Comany
